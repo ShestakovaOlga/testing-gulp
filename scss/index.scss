@@ -1,12 +1,10 @@
-
 $primary-color: magenta;
 $secondary-color: white;
 
 body {
-  background: magenta;
-  color: white;
+  background-color: $primary-color;
+  color: $secondary-color;
 }
-
 
 div{
   border-radius: 5px;
